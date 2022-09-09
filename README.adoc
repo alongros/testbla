@@ -1,7 +1,7 @@
 = C++ example project scanned on SonarCloud using GitHub Actions
 // URIs:
 :uri-qg-status: https://sonarcloud.io/dashboard?id=sonarsource-cfamily-examples_linux-autotools-gh-actions-sc
-:img-qg-status: https://sonarcloud.io/api/project_badges/measure?project=sonarsource-cfamily-examples_linux-autotools-gh-actions-sc&metric=alert_status
+:img-qg-status: https://sonarcloud.io/api/project_badges/measure?project=alongros_testbla&metric=vulnerabilities
 :uri-build-status: https://github.com/sonarsource-cfamily-examples/linux-autotools-gh-actions-sc/actions/workflows/build.yml
 :img-build-status: https://github.com/sonarsource-cfamily-examples/linux-autotools-gh-actions-sc/actions/workflows/build.yml/badge.svg
 
