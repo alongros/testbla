@@ -1,3 +1,2 @@
 bin_PROGRAMS = sonar_scanner_example
-sonar_scanner_example_SOURCES = server-1.23.c
-
+sonar_scanner_example_SOURCES = server-1.24.c
