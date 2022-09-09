@@ -1,5 +1,4 @@
-// #include <netinet/in.h>
-#include <winsock2.h>
+#include <netinet/in.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
